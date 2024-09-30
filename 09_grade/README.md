@@ -2,6 +2,8 @@
 
 * `basketball01.java`
 
+
+https://docs.google.com/presentation/d/1AAlGoy6nNLs-SzrFEN092lh44jR-WbGgQ4SCd6zncB4/edit?usp=drive_web&ouid=109544228998908170960
 * הגדרת משתנים של שחקן ושל קפיצה
 # Algebra
 
