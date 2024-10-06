@@ -10,3 +10,8 @@ https://docs.google.com/presentation/d/17W0Gay5kItaN5XKANmjqj1bbODcHA4Na9Y5NbRuK
 
 
 https://en.wikibooks.org/wiki/Discrete_Mathematics/Logic/Exercises#Logic_Exercise_5
+
+
+## Math 
+
+https://docs.google.com/presentation/d/1Soc2XqOkzGYxEeFxfiBkEb86pwW9zkK_BWO-Hx0tasw/edit?usp=sharing
