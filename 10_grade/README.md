@@ -15,3 +15,7 @@ https://en.wikibooks.org/wiki/Discrete_Mathematics/Logic/Exercises#Logic_Exercis
 ## Math 
 
 https://docs.google.com/presentation/d/1Soc2XqOkzGYxEeFxfiBkEb86pwW9zkK_BWO-Hx0tasw/edit?usp=sharing
+
+## Functions
+
+https://docs.google.com/presentation/d/1pxK1cZBL6jjGPCMmE4FM9FII6q_jnifBrcGbdE5HN10/edit?usp=sharing
