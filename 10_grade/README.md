@@ -17,3 +17,7 @@ https://docs.google.com/presentation/d/1pxK1cZBL6jjGPCMmE4FM9FII6q_jnifBrcGbdE5H
 ## Loops
 
 https://docs.google.com/presentation/d/1rqG2gRPN8o97JZc8eKr3qrO3o_CCFtWEtEapUBOYf_8/edit?usp=sharing
+
+### Nested loops
+
+https://docs.google.com/presentation/d/1Tqi4GI1g1Ut5UKPGg2bNM15IccoLi-xr8kTUpepWNcE/edit?usp=sharing
