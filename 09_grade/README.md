@@ -6,3 +6,7 @@ https://docs.google.com/presentation/d/1AAlGoy6nNLs-SzrFEN092lh44jR-WbGgQ4SCd6zn
 ## Algebra
 
 https://docs.google.com/presentation/d/10nyJI58r7TpuGGX98Z7Rkl_OWXNCM1Iu9nhE3qLv4y8/edit?usp=sharing
+
+## Type conversion
+
+https://docs.google.com/presentation/d/1GvwOCIQ2kk7A8dJ5n9DblNDnFpPfZUbIKFITVVyqKWU/edit?usp=sharing
