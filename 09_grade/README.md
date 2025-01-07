@@ -18,3 +18,7 @@ https://docs.google.com/presentation/d/1NxhcB1i8NPzRz4GhApaCi2HfoABRkpW0QEX4Aqgr
 ### Logic
 
 https://docs.google.com/presentation/d/1_yr8Qo6CGz0b_0aHSdYQ1AZWPkQW2tdZCgahTMcQPpQ/edit?usp=sharing
+
+### Movie - history of computers
+
+https://www.youtube.com/watch?v=FU_YFpfDqqA
