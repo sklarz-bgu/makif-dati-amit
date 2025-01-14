@@ -22,3 +22,8 @@ https://docs.google.com/presentation/d/1_yr8Qo6CGz0b_0aHSdYQ1AZWPkQW2tdZCgahTMcQ
 ### Movie - history of computers
 
 https://www.youtube.com/watch?v=FU_YFpfDqqA
+
+
+## Math
+
+https://docs.google.com/presentation/d/1RtlGwo1vwmd7ySOyTtQFlizr3LU4kJorAT2HR4TaEyw/edit?usp=drive_link
