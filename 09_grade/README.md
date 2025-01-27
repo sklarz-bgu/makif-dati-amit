@@ -27,3 +27,8 @@ https://www.youtube.com/watch?v=FU_YFpfDqqA
 ## Math
 
 https://docs.google.com/presentation/d/1RtlGwo1vwmd7ySOyTtQFlizr3LU4kJorAT2HR4TaEyw/edit?usp=drive_link
+
+
+## Loops
+
+https://docs.google.com/presentation/d/1SKakT7xzWh9YcVJ1FepbwdbdqbeqambAoreMqUZQKXk/edit?usp=sharing
