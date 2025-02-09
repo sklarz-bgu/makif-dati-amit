@@ -31,3 +31,7 @@ https://docs.google.com/presentation/d/1278UWIQf01JocEVuq3jGdT7LTVe7WA59471Bb_9Y
 ## Arrays
 
 https://docs.google.com/presentation/d/1K4JqNBQWkm2ZlFINnTZhaTivlUJfoptcuv6pTX2cbOA/edit?usp=sharing
+
+### Sorting Arrays
+
+https://www.youtube.com/watch?v=0lOnnd50cGI
