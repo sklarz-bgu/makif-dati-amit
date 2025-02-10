@@ -11,3 +11,14 @@ https://www.youtube.com/watch?v=MFzDaBzBlL0
 
 https://www.youtube.com/watch?v=FU_YFpfDqqA
 
+# How the Königsberg bridge problem changed mathematics - Dan Van der Vieren
+
+https://www.youtube.com/watch?v=nZwSo4vfw6c
+
+## Euler and Hamiltonian paths
+
+https://www.geeksforgeeks.org/euler-hamiltonian-paths/
+
+## Graph theory applications
+
+https://www.geeksforgeeks.org/applications-of-graph-theory/
