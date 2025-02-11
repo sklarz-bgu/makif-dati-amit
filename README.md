@@ -22,3 +22,7 @@ https://www.geeksforgeeks.org/euler-hamiltonian-paths/
 ## Graph theory applications
 
 https://www.geeksforgeeks.org/applications-of-graph-theory/
+
+## Presentation
+
+https://docs.google.com/presentation/d/1fP8PRLM4XsT8OChalc5A7pIyJhpkhPOnP2NxnRotNao/edit?usp=sharing
