@@ -34,4 +34,6 @@ https://docs.google.com/presentation/d/1K4JqNBQWkm2ZlFINnTZhaTivlUJfoptcuv6pTX2c
 
 ### Sorting Arrays
 
+https://www.youtube.com/watch?v=RfXt_qHDEPw
+
 https://www.youtube.com/watch?v=0lOnnd50cGI
