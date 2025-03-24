@@ -32,3 +32,19 @@ https://docs.google.com/presentation/d/1RtlGwo1vwmd7ySOyTtQFlizr3LU4kJorAT2HR4Ta
 ## Loops
 
 https://docs.google.com/presentation/d/1SKakT7xzWh9YcVJ1FepbwdbdqbeqambAoreMqUZQKXk/edit?usp=sharing
+
+
+# Subjects for lectures
+
+## Tet 7/9
+
+https://docs.google.com/document/d/1DAIBFKKz-_rsIslXllv3gvgWI5gEMLkXuYPekk77LVQ/edit?usp=sharing
+
+## Tet 1
+
+https://docs.google.com/document/d/1mvl6pRpi52SZ1rI6SEZmKn1JbaNBF6SWhvDq0GXztA0/edit?usp=sharing
+
+
+# Equation page
+
+https://drive.google.com/file/d/1MaKwpaMMTNPxFswdBPtV8JxlZ6nJ3PC6/view?usp=drive_link
