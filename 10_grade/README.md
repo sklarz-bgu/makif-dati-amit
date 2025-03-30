@@ -37,3 +37,8 @@ https://docs.google.com/presentation/d/1K4JqNBQWkm2ZlFINnTZhaTivlUJfoptcuv6pTX2c
 https://www.youtube.com/watch?v=RfXt_qHDEPw
 
 https://www.youtube.com/watch?v=0lOnnd50cGI
+
+
+### Searching arrays
+
+https://docs.google.com/presentation/d/1UVCprTVgD7udZb1x1KfXQoW_cq8XEzWUBvyiQluGd7w/edit?usp=sharing
