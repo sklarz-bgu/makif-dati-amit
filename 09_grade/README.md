@@ -44,6 +44,14 @@ https://docs.google.com/document/d/1DAIBFKKz-_rsIslXllv3gvgWI5gEMLkXuYPekk77LVQ/
 
 https://docs.google.com/document/d/1mvl6pRpi52SZ1rI6SEZmKn1JbaNBF6SWhvDq0GXztA0/edit?usp=sharing
 
+### Order of presentations:
+
+#### Tet1
+https://docs.google.com/document/d/1NoXEJfgUJfo_ZwGrm03eqAsHu7iriJ3o8tLVgP0V74c/edit?usp=sharing
+
+#### Dir:
+
+https://drive.google.com/drive/folders/1Sh6gH5iO2i5nZ7ZQVaHF52f1amOSxzPV?usp=sharing
 
 # Equation page
 
