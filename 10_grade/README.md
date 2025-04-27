@@ -42,3 +42,38 @@ https://www.youtube.com/watch?v=0lOnnd50cGI
 ### Advabced arrays
 
 https://docs.google.com/presentation/d/1UVCprTVgD7udZb1x1KfXQoW_cq8XEzWUBvyiQluGd7w/edit?usp=sharing
+
+
+## Reading from files
+
+### Imports:
+
+```
+	import java.io.File;
+	import java.io.IOException;
+	import java.io.BufferedReader;
+	import java.io.FileReader;
+
+```
+
+### Definitions and loop
+
+```
+        File myFile = new File(PATH_TO_FILE);
+        BufferedReader reader;
+        try {
+            reader = new BufferedReader(new FileReader(myFile));
+            String line = reader.readLine();
+
+            while (line != null) {
+                System.out.println(line);
+                // read next line
+                line = reader.readLine();
+            }
+
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+```
