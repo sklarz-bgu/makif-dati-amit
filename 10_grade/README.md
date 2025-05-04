@@ -77,3 +77,43 @@ https://docs.google.com/presentation/d/1UVCprTVgD7udZb1x1KfXQoW_cq8XEzWUBvyiQluG
         }
 
 ```
+
+### Library `main()` function
+
+```
+import java.io.File;
+import java.io.IOException;
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+
+public class myLib {
+    public static void main(String[] args) {
+
+        Book mybook = new Book("harry potter");
+        mybook.setBox(120);
+	Library ourLib = new Library("Beer Sheva");
+	ourLib.addBook(mybook);
+        System.out.println(mybook);
+        File myFile = new File(PATH_TO_FILE);
+        BufferedReader reader;
+        try {
+            reader = new BufferedReader(new FileReader(myFile));
+            String line = reader.readLine();
+
+            while (line != null) {
+                System.out.println(line);
+                // read next line
+                line = reader.readLine();
+            }
+
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+	
+
+    }
+}
+```
