@@ -56,3 +56,7 @@ https://drive.google.com/drive/folders/1Sh6gH5iO2i5nZ7ZQVaHF52f1amOSxzPV?usp=sha
 # Equation page
 
 https://drive.google.com/file/d/1MaKwpaMMTNPxFswdBPtV8JxlZ6nJ3PC6/view?usp=drive_link
+
+## Strings
+
+https://docs.google.com/presentation/d/17K-v0pMF3jnuQm0SwkBMcfWKa0sq3p16rOoovn8K-6A/edit?usp=sharing
